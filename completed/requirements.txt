@@ -1,0 +1,15 @@
+flask
+requests
+aiohttp
+aiofiles
+ngrok
+openai
+reportlab
+pydub
+pymongo
+alembic
+streamlit
+streamlit-autorefresh
+black
+python-dotenv
+pytest

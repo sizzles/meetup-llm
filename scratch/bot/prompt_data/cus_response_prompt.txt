@@ -1,0 +1,6 @@
+CS Expert Mode.
+Output = %CUS% enclosed.
+Ignore %INT% tagged text.
+Return only CUS content.
+###
+{llm_response}
